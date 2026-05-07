@@ -69,7 +69,7 @@
   <img width="1109" height="358" alt="image" src="https://github.com/user-attachments/assets/aff766ba-7b45-47ca-a5ed-8925d391256b" />
 <br>
 
-- **Tê liệt hệ thống vật lý**: Cần phải biết rằng công ty **hoạt động chủ yếu tại các cửa hàng hệ thống vật lý**, tập trung nhiều ở khu vực Bắc Mỹ và Châu Âu, song các lệnh phong tỏa đột ngột vào Q2/2020 đã **đóng băng** lưu lượng khách hàng trực tiếp, đánh trúng vào mạch máu doanh thu chính của công ty. Cú **lao dốc** thể hiện rõ từ 4/2020 và tiếp diễn qua đầu năm 2021 .
+- **Tê liệt hệ thống vật lý**: Cần phải biết rằng công ty **hoạt động chủ yếu tại các cửa hàng hệ thống vật lý**, tập trung nhiều ở khu vực Bắc Mỹ và Châu Âu, song các lệnh phong tỏa đột ngột vào Q2/2020 đã **đóng băng** lưu lượng khách hàng trực tiếp, đánh trúng vào mạch máu doanh thu chính của công ty. Cú **lao dốc** thể hiện rõ từ 5/2020 và tiếp diễn qua đầu năm 2021 .
 
  <img width="1319" height="299" alt="image" src="https://github.com/user-attachments/assets/c4df6d1b-b65f-47fc-a2c2-128d84f88fc6" />
 <br>
