@@ -25,9 +25,10 @@ Doanh nghiệp là một chuỗi bán lẻ thiết bị điện tử toàn cầu
  - Công ty theo đuổi chiến lược bành trướng bằng "bê tông và cốt thép" (mở cửa hàng liên tục). Đỉnh điểm là năm 2018 với mức tăng trưởng bùng nổ 72.32%. Tới năm 2019, doanh thu chạm đỉnh $18.3M, nhưng tốc độ tăng trưởng đã bắt đầu chậm lại (42.81%), báo hiệu thị trường bán lẻ truyền thống đang tiến tới điểm bão hòa. 
    
    <img width="966" height="396" alt="image" src="https://github.com/user-attachments/assets/b2abb617-8314-4317-8a10-279476cf788b" /> 
-  **Cú sốc Khủng hoảng Kép (2020 - Đầu 2021):**
+  **Cú sốc Khủng hoảng doanh thu (2020 - Đầu 2021):**
 
-   - Doanh thu chủ yếu tăng mạnh vào Quý 4 và Đầu Quý 1, cho thấy nhu cầu mua sắm ở thời điểm cuối năm và đầu năm rất cao.
+   - Doanh thu chủ yếu tăng mạnh vào Quý 4 và  Quý 1, cho thấy nhu cầu mua sắm ở thời điểm cuối năm và đầu năm rất cao. Doanh thu Quý 1 2020 thậm chỉ nhỉnh hơn so với năm kỷ lục 2019 ($5M so mới $4.9M), hứa hẹn một cột mốc kỷ lục mới về doanh thu cho công ty.
+   - Tuy nhiên, đây cũng là thời điểm bắt đầu cho khoảng thời gian đen tối nhất trong giai đoạn phát triển. Mặc dù khởi đầu khá tốt, doanh thu năm 2020 bốc hơi gần một nửa (-49.11%). Tình trạng này tiếp diễn qua năm 2021 và thậm chí còn trầm trọng hơn khi tổng kết tốc độ tăng trưởng của Quý 1 2021 chỉ là -70.23%
 
 <img width="1319" height="299" alt="image" src="https://github.com/user-attachments/assets/c4df6d1b-b65f-47fc-a2c2-128d84f88fc6" />
 
@@ -40,8 +41,6 @@ Doanh nghiệp là một chuỗi bán lẻ thiết bị điện tử toàn cầu
   <img width="1321" height="391" alt="image" src="https://github.com/user-attachments/assets/2a6f9a99-1dd0-44aa-8cc4-088fdec0f434" />
 
 - Hệ thống thiếu vắng nền tảng Omnichannel (Đa kênh) vững chắc.
-
-**Hậu quả:** Doanh thu năm 2020 bốc hơi gần một nửa (-49.11%) và đầu năm 2021 tiếp tục chạm đáy.
   
 ### 1.3. Nguyên nhân khách quan 
 **Cú sốc đại dịch Covid-19 bùng nổ trên toàn thế giới**
@@ -56,6 +55,6 @@ Doanh nghiệp là một chuỗi bán lẻ thiết bị điện tử toàn cầu
 
 ### 1.4. Yêu cầu giải quyết vấn đề
 
-- **Vận hành:** Xây dựng báo cáo theo dõi tổng quan kinh doanh, phân tích hiệu suất của khác khu vực, lý do dẫn đến đứt gãy doanh thu, tỷ lệ vận hành giữa 2 kênh bán hàng.
+- **Vận hành:** Xây dựng báo cáo theo dõi tổng quan kinh doanh, phân tích hiệu suất của khác khu vực.
 - **Kinh doanh:** Phân tích sản phẩm chủ chốt, xu hướng mua sắm và hành vi khách hàng. 
 - **Chiến lược:** Nhận định rõ được nguyên nhân, đề xuất chiến lược thúc đẩy bán hàng và tối ưu hoá thị trường. 
