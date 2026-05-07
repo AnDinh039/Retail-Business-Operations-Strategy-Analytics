@@ -21,7 +21,7 @@ Doanh nghiệp là một chuỗi bán lẻ thiết bị điện tử toàn cầu
 
 - **Cú sốc Khủng hoảng Kép (2020 - Đầu 2021):** Đại dịch bùng phát. Cú "sập hầm" thể hiện rõ từ tháng 4/2020 khi hệ thống cửa hàng vật lý (In-store) tê liệt. Lẽ ra đây là lúc Kênh Online phải gánh vác doanh số, nhưng dữ liệu lại chỉ ra: Kênh Online lao dốc song song cùng In-store. Hệ thống thiếu vắng nền tảng Omnichannel (Đa kênh) vững chắc. Hậu quả: Doanh thu năm 2020 bốc hơi gần một nửa (-49.11%) và đầu năm 2021 tiếp tục chạm đáy.
 
-### 1.3. Nguyên nhân chủ quan 
+### 1.3. Nguyên nhân khách quan 
 **Cú sốc đại dịch Covid-19 bùng nổ trên toàn thế giới**
 - **Tê liệt hệ thống vật lý**: Các lệnh phong tỏa đột ngột vào Quý 2/2020 đã "đóng băng" lưu lượng khách hàng trực tiếp, đánh trúng vào mạch máu doanh thu chính của công ty.
 
