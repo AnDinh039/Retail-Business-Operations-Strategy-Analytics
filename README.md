@@ -46,7 +46,7 @@
 <img width="1261" height="513" alt="image" src="https://github.com/user-attachments/assets/cbd28cca-bc59-49a1-bce2-fad5c4dd3a9b" />
 <br>
 
-- Kế thừa đà tăng trưởng ấn tượng từ 2019, Q1/2020 khởi đầu khá thành công với mức **doanh thu đạt $5M** – nhỉnh hơn cả cùng kỳ của năm kỷ lục 2019, hứa hẹn thiết lập một kỷ lục mới cho doanh nghiệp.
+**Kế thừa đà tăng trưởng ấn tượng từ 2019, Q1/2020 khởi đầu khá thành công với mức **doanh thu đạt $5M** – nhỉnh hơn cả cùng kỳ của năm kỷ lục 2019, hứa hẹn thiết lập một kỷ lục mới cho doanh nghiệp.**
 
  **Vấn đề đối mặt**
  ----------------------------------
