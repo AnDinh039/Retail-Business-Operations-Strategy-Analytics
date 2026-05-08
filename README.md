@@ -109,7 +109,7 @@
 
 - Mất cân đối mạng lưới vật lý: Việc phân bổ nguồn lực bộc lộ lỗ hổng chiến lược lớn. Công ty chịu rủi ro cao khi sinh mệnh tài chính phụ thuộc quá mức vào số ít cửa hàng Flagship tại Bắc Mỹ. Đồng thời, việc duy trì dàn trải một lượng lớn các cửa hàng kém hiệu quả tại Châu Âu đã tạo ra lỗ hổng bào mòn dòng tiền nghiêm trọng.
 
-- Yếu kém trong hạ tầng Đa kênh: Sự đồng pha cắm đầu đi xuống của cả kênh In-store lẫn Online là minh chứng rõ nhất cho việc doanh nghiệp chưa đầu tư chỉn chu cho thương mại điện tử. Hệ thống thiếu vắng hoàn toàn một nền tảng Omnichannel và chuỗi xử lý đơn hàng độc lập, dẫn đến sự bất lực trong việc gánh vác doanh số khi giông bão xảy ra.
+- Yếu kém trong hạ tầng Đa kênh: Sự đồng pha cắm đầu đi xuống của cả kênh In-store lẫn Online là minh chứng rõ nhất cho việc doanh nghiệp chưa đầu tư chỉn chu cho thương mại điện tử. Hệ thống thiếu vắng hoàn toàn một nền tảng Omnichannel và chuỗi xử lý đơn hàng độc lập, dẫn đến sự bất lực trong việc gánh vác doanh số khi vấn đề xảy ra.
 
 **Đề xuất giải pháp**
 - Tái cấu trúc danh mục điểm bán: Rà soát toàn diện mức độ hiệu quả tại thị trường Châu Âu. Xem xét đóng cửa vĩnh viễn các cửa hàng có biên lợi nhuận âm kéo dài. Dồn nguồn lực tối ưu hóa không gian và bảo vệ lợi nhuận cho các cửa hàng trọng điểm tại Bắc Mỹ.
