@@ -125,4 +125,12 @@
 <img width="608" height="244" alt="image" src="https://github.com/user-attachments/assets/efd8436b-173e-4e9c-aa96-609188c31d5f" /> 
 <br> 
 - Xét trong khoảng giai đoạn khó khăn (2020 - 2021), **Computers** vẫn luôn là danh mục chủ chốt, đóng góp doanh thu **$4.1M (chiếm 38.78% tỷ trọng)** cho doanh nghiệp. Mảng này duy trì được đà doanh thu ổn định nhờ đón đầu được sự bùng nổ của xu hướng Work From Home (Làm việc tại nhà), giúp doanh nghiệp duy trì được dòng tiền trong khi các danh mục khác đang trong tình trạng yếu kém.
+- Bên cạnh đó, ta có thể thấy được rằng có những danh mục khác mặc dù có doanh thu thấp nhưng lại có biên lợi nhuận khá cao. Các danh mục như Music, Movies and Audio Books và Cameras and camcorders đều đạt được biên lợi nhuận lần lượt là 61% và 60.24%.
+  
+  <img width="663" height="554" alt="image" src="https://github.com/user-attachments/assets/e6756065-faa3-4a9b-8e76-1a835d3e0ee9" />
+
+- Ma trận BCG cho thấy Computers là danh mục có sức chống chịu tốt nhất toàn hệ thống (YoY Growth nằm ở cực trái, giảm ít nhất với -66%). Các danh mục còn lại là Music, Movies and Audio Books và Cameras and camcorders đang bộc lộ tiềm năng cực lớn.
+- Ma trận này cũng đang cảnh báo mức độ rủi ro nghiêm trọng của các mảng TV and Video, Audio và Games and Toys. Nhóm này đang rơi tự do với mức suy giảm chạm đáy (-75% tới -80%). Đặc biệt, mảng Games and Toys vừa ế ẩm lại vừa có biên lợi nhuận mỏng nhất hệ thống (chỉ ~55%). Đây là hồi chuông báo động yêu cầu doanh nghiệp phải lập tức xem xét ngừng nhập hàng, tung các chiến dịch xả kho để thu hồi dòng tiền và loại bỏ các mã hàng kém hiệu quả này khỏi danh mục.
+- 
+
 
