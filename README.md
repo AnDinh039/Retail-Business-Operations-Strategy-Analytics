@@ -29,7 +29,9 @@
 - **Kinh doanh:** Phân tích sản phẩm chủ chốt, xu hướng mua sắm và hành vi khách hàng. 
 - **Chiến lược:** Nhận định rõ được nguyên nhân, đề xuất chiến lược thúc đẩy bán hàng và tối ưu hoá thị trường.
   
-## 3. PHÂN TÍCH
+## 3. PHÂN TÍCH & KẾT LUẬN
+
+### 3.1. Vận hành
 
  **Tình hình chung**
 
@@ -68,7 +70,8 @@
 
 **Cú sốc đại dịch Covid-19 bùng nổ trên toàn thế giới**
 
-  <img width="1109" height="358" alt="image" src="https://github.com/user-attachments/assets/aff766ba-7b45-47ca-a5ed-8925d391256b" />
+<img width="1206" height="356" alt="image" src="https://github.com/user-attachments/assets/60338dd2-eb77-4480-a523-c4d621291e54" />
+
 <br>
 
 - **Tê liệt hệ thống vật lý**: Cần phải biết rằng công ty **hoạt động chủ yếu tại các cửa hàng hệ thống vật lý**, tập trung nhiều ở khu vực Bắc Mỹ và Châu Âu, song các lệnh phong tỏa đột ngột vào Q2/2020 đã **đóng băng** lưu lượng khách hàng trực tiếp, đánh trúng vào mạch máu doanh thu chính của công ty. Cú **lao dốc** thể hiện rõ từ 5/2020 và tiếp diễn qua đầu năm 2021 .
@@ -80,21 +83,22 @@
   
 **Nguyên nhân chủ quan**
 
-**Phân bố cửa hàng trên thị trường** 
+**Phân bố cửa hàng trên thị trường không hiệu quả** 
 
-<img width="1176" height="355" alt="image" src="https://github.com/user-attachments/assets/6d08dd6b-d15f-4d91-a077-ef5e4705f511" />
+<img width="1301" height="339" alt="image" src="https://github.com/user-attachments/assets/a976226f-7f85-412e-a2bc-70499605c01e" />
 
-- Thống kê chỉ ra thị trường Bắc Mỹ đang giữ vai trò cốt lõi khi chiếm tới 61.79% tổng doanh thu toàn cầu. Điều đáng chú ý là khu vực này đạt được thành tích trên chỉ với 29 cửa hàng (ít hơn Châu Âu) do chiến lược tập trung chủ yếu vào các mô hình cửa hàng cao cấp (Flagship)
 
-- Về mặt tích cực, chính tập hợp cửa hàng Flagship tại Bắc Mỹ đang gồng gánh tài chính cho cả doanh nghiệp. Ngược lại, bảng thống kê hiệu suất phơi bày một sự thật đáng lo ngại rằng thị trường Châu Âu dù sở hữu mạng lưới điểm bán dày đặc nhất và bao phủ các quốc gia phát triển lại đang quy tụ hàng loạt các cửa hàng có doanh thu kém.
+- **Bắc Mỹ – Hoạt động ổn định từ chiến lược Mall Center:** Dù chỉ vận hành **29 cửa hàng (ít hơn hẳn Châu Âu)**, Bắc Mỹ lại là giữ vai trò trụ cột khi đóng góp tới **61.79% tổng doanh thu toàn cầu**. Sự ổn định này đến từ việc doanh nghiệp đã phát triển cực kỳ hiệu quả các mô hình Mall Center tại đây, biến những cửa hàng thành lực lượng gồng gánh biên lợi nhuận cho cả hệ thống trong thời kỳ khó khăn.
+
+- **Gánh nặng Châu Âu & Lỗ hổng chiến lược Flagship:** Bảng thống kê các cửa hàng kém hiệu quả (Store Low Performance) phơi bày sự báo động tại thị trường Châu Âu. Dù sở hữu mạng lưới điểm bán dày đặc bao phủ nhiều quốc gia phát triển (Pháp, Đức, Ý,...), khu vực này lại đang là thị trường bạc nhược với hàng loạt các mô hình Compact và Standard thua lỗ nặng. 
   
-  <img width="1237" height="589" alt="image" src="https://github.com/user-attachments/assets/d77b5cbf-7743-4a48-b953-322d7ab87b9f" />
-  
-- Bảng thống kê hiệu suất cửa hàng từ 2020 - 2021 đã chỉ một sự thật đáng lo ngại rằng các cửa hàng tại Châu Âu và Châu Úc đều trong tình trạng hiệu suất kém.
+  <img width="1245" height="676" alt="image" src="https://github.com/user-attachments/assets/5e437adf-63bb-40a0-8720-da4e6b0cfee5" />
+
+- **Nghịch lý Thương hiệu tại Mỹ:** Dữ liệu đã chỉ ra một lỗ hổng chiến lược khó hiểu, thị trường số 1 là USA lại hoàn toàn vắng bóng mô hình Flagship. Việc bỏ ngỏ kế hoạch xây dựng các cửa hàng cao cấp định hình thương hiệu tại thị trường bán lẻ này có thể là nguyên nhân khiến doanh nghiệp thiếu đi sức hút thương hiệu cốt lõi, buộc phải phụ thuộc hoàn toàn vào luồng traffic chia sẻ từ các TTTM (Mall Center).
 
 **Hệ thống đa kênh không hiệu quả**
 
-- Lẽ ra đây là lúc Kênh Online phải gánh vác doanh số, nhưng dữ liệu lại chỉ ra: **Kênh Online lao dốc song song cùng In-store**.
+- Lẽ ra đây là lúc Kênh Online phải gánh vác doanh số khi đối mặt với các hạn chế trong tâm dịch bệnh, nhưng dữ liệu lại chỉ rằng **Kênh Online lao dốc song song cùng In-store**.
 
   <img width="1277" height="562" alt="image" src="https://github.com/user-attachments/assets/dbaf7922-ae42-49e4-b59e-dd0adce45d68" />
 
@@ -105,12 +109,20 @@
 **Kết luận**
 ---------------------------------------------------------------------
 **Nguyên nhân dẫn đến tình trạng doanh thu giảm**
-- Tác động ngoại cảnh: Cú sốc từ đại dịch Covid-19 trên toàn cầu làm đóng băng lưu lượng khách hàng trực tiếp và gây đứt gãy chuỗi cung ứng.
+- **Tác động ngoại cảnh:** Cú sốc từ đại dịch Covid-19 trên toàn cầu làm đóng băng lưu lượng khách hàng trực tiếp và gây đứt gãy chuỗi cung ứng.
 
-- Mất cân đối mạng lưới vật lý: Việc phân bổ nguồn lực bộc lộ lỗ hổng chiến lược lớn. Công ty chịu rủi ro cao khi sinh mệnh tài chính phụ thuộc quá mức vào số ít cửa hàng Flagship tại Bắc Mỹ. Đồng thời, việc duy trì dàn trải một lượng lớn các cửa hàng kém hiệu quả tại Châu Âu đã tạo ra lỗ hổng bào mòn dòng tiền nghiêm trọng.
+- **Mất cân đối mạng lưới vật lý:** Việc phân bổ nguồn lực bộc lộ lỗ hổng chiến lược lớn. Công ty chịu rủi ro cao khi tài chính phụ thuộc quá mức vào thị trường Bắc Mỹ. Đồng thời, việc duy trì dàn trải một lượng lớn các cửa hàng kém hiệu quả tại Châu Âu đã tạo ra lỗ hổng bào mòn dòng tiền nghiêm trọng.
 
-- Yếu kém trong hạ tầng Đa kênh: Sự đồng pha cắm đầu đi xuống của cả kênh In-store lẫn Online là minh chứng rõ nhất cho việc doanh nghiệp chưa đầu tư chỉn chu cho thương mại điện tử. Hệ thống thiếu vắng hoàn toàn một nền tảng Omnichannel và chuỗi xử lý đơn hàng độc lập, dẫn đến sự bất lực trong việc gánh vác doanh số khi vấn đề xảy ra.
+- **Yếu kém trong hạ tầng Đa kênh:** Sự đồng pha cắm đầu đi xuống của cả kênh In-store lẫn Online là minh chứng rõ nhất cho việc doanh nghiệp chưa đầu tư chỉn chu cho thương mại điện tử. Hệ thống thiếu vắng hoàn toàn một nền tảng Omnichannel và chuỗi xử lý đơn hàng độc lập, dẫn đến sự bất lực trong việc gánh vác doanh số khi vấn đề xảy ra.
 
 **Đề xuất giải pháp**
-- Tái cấu trúc danh mục điểm bán: Rà soát toàn diện mức độ hiệu quả tại thị trường Châu Âu. Xem xét đóng cửa vĩnh viễn các cửa hàng có biên lợi nhuận âm kéo dài. Dồn nguồn lực tối ưu hóa không gian và bảo vệ lợi nhuận cho các cửa hàng trọng điểm tại Bắc Mỹ.
-- Chuyển đổi số & Tự chủ chuỗi cung ứng: Xây dựng hệ sinh thái kênh Online độc lập. Nâng cấp chuỗi cung ứng linh hoạt để đảm bảo hệ thống luôn sẵn sàng thích ứng với mọi biến động vĩ mô trong tương lai, không chỉ riêng đại dịch.
+- **Tái cấu trúc danh mục điểm bán:** Rà soát toàn diện mức độ hiệu quả tại thị trường Châu Âu. Xem xét đóng cửa vĩnh viễn các cửa hàng có biên lợi nhuận âm kéo dài. Dồn nguồn lực tối ưu hóa không gian và bảo vệ lợi nhuận cho các cửa hàng trọng điểm tại Bắc Mỹ.
+- **Chuyển đổi số & Tự chủ chuỗi cung ứng:** Xây dựng hệ sinh thái kênh Online độc lập. Nâng cấp chuỗi cung ứng linh hoạt để đảm bảo hệ thống luôn sẵn sàng thích ứng với mọi biến động vĩ mô trong tương lai, không chỉ riêng đại dịch.
+
+### 3.2. Kinh doanh
+**Tỷ trọng doanh thu các danh mục sản phẩm không đồng đều**
+
+<img width="608" height="244" alt="image" src="https://github.com/user-attachments/assets/efd8436b-173e-4e9c-aa96-609188c31d5f" /> 
+<br> 
+- Xét trong khoảng giai đoạn khó khăn (2020 - 2021), **Computers** vẫn luôn là danh mục chủ chốt, đóng góp doanh thu **$4.1M (chiếm 38.78% tỷ trọng)** cho doanh nghiệp. Mảng này duy trì được đà doanh thu ổn định nhờ đón đầu được sự bùng nổ của xu hướng Work From Home (Làm việc tại nhà), giúp doanh nghiệp duy trì được dòng tiền trong khi các danh mục khác đang trong tình trạng yếu kém.
+
