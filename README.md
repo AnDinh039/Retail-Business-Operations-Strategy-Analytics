@@ -25,9 +25,9 @@
 
 ## 2. YÊU CẦU
 
-- **Vận hành:** Xây dựng báo cáo theo dõi tổng quan kinh doanh, phân tích hiệu suất của khác khu vực.
-- **Kinh doanh:** Phân tích sản phẩm chủ chốt, xu hướng mua sắm và hành vi khách hàng. 
-- **Chiến lược:** Nhận định rõ được nguyên nhân, đề xuất chiến lược thúc đẩy bán hàng và tối ưu hoá thị trường.
+- **Vận hành:** Xây dựng hệ thống báo cáo trực quan nhằm theo dõi bức tranh tổng quan hoạt động kinh doanh của doanh nghiệp trong giai đoạn 2016–2021, đồng thời đánh giá hiệu suất vận hành tại từng thị trường và từng mô hình cửa hàng để xác định các điểm tăng trưởng hoặc suy giảm.
+- **Kinh doanh:** Phân tích hiệu quả của các nhóm sản phẩm chủ lực, xu hướng mua sắm theo thời gian, hành vi tiêu dùng của từng tệp khách hàng, cũng như mức độ đóng góp doanh thu của từng phân khúc nhằm nhận diện cơ hội mở rộng kinh doanh.
+- **Chiến lược:** Xác định các nguyên nhân cốt lõi ảnh hưởng đến biến động doanh thu và lợi nhuận; từ đó đề xuất các chiến lược tối ưu hóa danh mục sản phẩm, tái cấu trúc phân bổ cửa hàng, ưu tiên đầu tư vào các thị trường tiềm năng và xây dựng định hướng tăng trưởng bền vững trong tương lai
   
 ## 3. PHÂN TÍCH & KẾT LUẬN
 
@@ -35,20 +35,19 @@
 
  **Tình hình chung**
 
-- Trong suốt giai đoạn từ 2016 - 02/2021, doanh nghiệp có tổng cộng **26326** đơn hàng, mang về doanh thu $56M. Trong đó, đỉnh điểm là **2018 với mức tăng trưởng bùng nổ 72.32%**. Tới **2019, doanh thu chạm đỉnh $18.3M**
+- Trong giai đoạn từ năm 2016 đến tháng 02/2021, doanh nghiệp ghi nhận tổng cộng 26,326 đơn hàng, mang về 56 triệu USD doanh thu. Trong đó, năm 2018 là giai đoạn tăng trưởng bứt phá mạnh nhất với mức tăng trưởng 72.32%, đánh dấu bước mở rộng quy mô thành công của hệ thống. Đến năm 2019, doanh thu tiếp tục đạt mức đỉnh 18.3 triệu USD.
 
 <img width="1302" height="377" alt="image" src="https://github.com/user-attachments/assets/c1893c90-4b23-414a-b16b-125cf657f02b" />
 <br>
 
-- Nhưng trong cùng năm đó tốc độ tăng trưởng đã bắt đầu chậm lại **(42.81%)**, báo hiệu thị trường bán lẻ truyền thống đang tiến tới điểm bão hòa.
+- Tuy nhiên, ngay trong năm 2019, tốc độ tăng trưởng đã bắt đầu có dấu hiệu chững lại khi chỉ còn 42.81%, phản ánh quá trình tăng trưởng đang dần quay về trạng thái ổn định sau giai đoạn mở rộng mạnh mẽ trước đó.
   
 <img width="1164" height="367" alt="image" src="https://github.com/user-attachments/assets/63053464-c3d8-40b5-be3e-c9d3e0e062bf" />
 <br>
 
-- Doanh thu chủ yếu tăng mạnh vào Q4 và Q1 so với thời điểm khác trong năm, cho thấy nhu cầu mua sắm ở vào cuối năm và đầu năm rất cao.
+- Xét theo chu kỳ thời gian, doanh nghiệp duy trì đà tăng trưởng tích cực trong giai đoạn 2016–2019, với nhu cầu mua sắm tập trung rõ rệt vào Q1 và Q4 hằng năm, cho thấy tính mùa vụ cao gắn liền với các đợt mua sắm đầu năm và cuối năm.
 
 <img width="1261" height="513" alt="image" src="https://github.com/user-attachments/assets/cbd28cca-bc59-49a1-bce2-fad5c4dd3a9b" />
-<br>
 
 **Kế thừa đà tăng trưởng ấn tượng từ 2019, Q1/2020 khởi đầu khá thành công với mức **doanh thu đạt $5M** – nhỉnh hơn cả cùng kỳ của năm kỷ lục 2019, hứa hẹn thiết lập một kỷ lục mới cho doanh nghiệp.**
 
@@ -57,67 +56,27 @@
  
  **Cú sốc Khủng hoảng doanh thu (2020 - Đầu 2021):**
 
-- Thế nhưng, đây cũng là bước ngoặt mở ra giai đoạn khủng hoảng sâu sắc nhất của doanh nghiệp. Trái ngược với khởi đầu hứa hẹn, tổng doanh thu  2020 bất ngờ **bốc hơi** gần một nửa **(-49.11% YoY)**.
-- Đà lao dốc này không dừng lại mà tiếp tục khoét sâu vào đầu năm 2021, với tốc độ tăng trưởng Q1/2021 chạm đáy ở mức **-70.23%.**
+- Tuy nhiên, từ năm 2020, hiệu suất kinh doanh ghi nhận sự suy giảm nghiêm trọng khi doanh thu giảm 49.11% so với cùng kỳ, và tiếp tục lao dốc xuống -70.23% YTD vào đầu năm 2021. Đây là dấu hiệu cho thấy doanh nghiệp đang đối mặt với sự co hẹp rõ rệt về quy mô giao dịch trên toàn hệ thống.
 
   <img width="1172" height="379" alt="image" src="https://github.com/user-attachments/assets/12413de6-98f6-45b5-84b3-acc18c531f4b" />
-
 
   **Vậy nguyên nhân là do đâu?** 
   ----------------------------------
   
 **Nguyên nhân khách quan**
-
-**Cú sốc đại dịch Covid-19 bùng nổ trên toàn thế giới**
-
-<img width="1206" height="356" alt="image" src="https://github.com/user-attachments/assets/60338dd2-eb77-4480-a523-c4d621291e54" />
-
-<br>
-
-- **Tê liệt hệ thống vật lý**: Cần phải biết rằng công ty **hoạt động chủ yếu tại các cửa hàng hệ thống vật lý**, tập trung nhiều ở khu vực Bắc Mỹ và Châu Âu, song các lệnh phong tỏa đột ngột vào Q2/2020 đã **đóng băng** lưu lượng khách hàng trực tiếp, đánh trúng vào mạch máu doanh thu chính của công ty. Cú **lao dốc** thể hiện rõ từ 5/2020 và tiếp diễn qua đầu năm 2021 .
-
- <img width="1319" height="299" alt="image" src="https://github.com/user-attachments/assets/c4df6d1b-b65f-47fc-a2c2-128d84f88fc6" />
-<br>
-
-- **Đứt gãy chuỗi cung ứng**: Tình trạng thiếu hụt nguồn cung linh kiện/sản phẩm toàn cầu kéo dài sang đầu năm 2021 giải thích cho việc tại sao doanh thu Q1/2021 lại **chạm đáy chỉ còn $1M** dù các lệnh phong tỏa đã được nới lỏng.
-  
+- Thời điểm suy giảm trùng khớp với giai đoạn đại dịch COVID-19 bùng phát toàn cầu, cho thấy đây nhiều khả năng là một yếu tố vĩ mô ảnh hưởng đáng kể đến hoạt động kinh doanh.
 **Nguyên nhân chủ quan**
-
-**Phân bố cửa hàng trên thị trường không hiệu quả** 
-
-<img width="1301" height="339" alt="image" src="https://github.com/user-attachments/assets/a976226f-7f85-412e-a2bc-70499605c01e" />
-
-
-- **Bắc Mỹ – Hoạt động ổn định từ chiến lược Mall Center:** Dù chỉ vận hành **29 cửa hàng (ít hơn hẳn Châu Âu)**, Bắc Mỹ lại là giữ vai trò trụ cột khi đóng góp tới **61.79% tổng doanh thu toàn cầu**. Sự ổn định này đến từ việc doanh nghiệp đã phát triển cực kỳ hiệu quả các mô hình Mall Center tại đây, biến những cửa hàng thành lực lượng gồng gánh biên lợi nhuận cho cả hệ thống trong thời kỳ khó khăn.
-
-- **Gánh nặng Châu Âu & Lỗ hổng chiến lược Flagship:** Bảng thống kê các cửa hàng kém hiệu quả (Store Low Performance) phơi bày sự báo động tại thị trường Châu Âu. Dù sở hữu mạng lưới điểm bán dày đặc bao phủ nhiều quốc gia phát triển (Pháp, Đức, Ý,...), khu vực này lại đang là thị trường bạc nhược với hàng loạt các mô hình Compact và Standard thua lỗ nặng. 
+- Phân tích sâu hơn cho thấy nguyên nhân cốt lõi đến từ sự sụt giảm mạnh về số lượng đơn hàng, trong khi giá trị trung bình trên mỗi đơn hàng (AOV) vẫn được duy trì ổn định, thậm chí có xu hướng tăng nhẹ.
   
-  <img width="1245" height="676" alt="image" src="https://github.com/user-attachments/assets/5e437adf-63bb-40a0-8720-da4e6b0cfee5" />
+<img width="614" height="243" alt="image" src="https://github.com/user-attachments/assets/4634ce5d-b268-48a3-babf-30eec697f1c2" />
+<br>
 
-- **Nghịch lý Thương hiệu tại Mỹ:** Dữ liệu đã chỉ ra một lỗ hổng chiến lược khó hiểu, thị trường số 1 là USA lại hoàn toàn vắng bóng mô hình Flagship. Việc bỏ ngỏ kế hoạch xây dựng các cửa hàng cao cấp định hình thương hiệu tại thị trường bán lẻ này có thể là nguyên nhân khiến doanh nghiệp thiếu đi sức hút thương hiệu cốt lõi, buộc phải phụ thuộc hoàn toàn vào luồng traffic chia sẻ từ các TTTM (Mall Center).
+- Bên cạnh đó, biên lợi nhuận gộp liên tục duy trì quanh mức 58%, cho thấy doanh nghiệp vẫn kiểm soát tốt chiến lược định giá và hiệu quả sinh lời. Điều này khẳng định rằng vấn đề trọng tâm không nằm ở khả năng tạo lợi nhuận trên mỗi đơn hàng, mà chủ yếu xuất phát từ sự suy giảm nhu cầu thị trường và mức độ tương tác mua sắm của khách hàng.
 
-**Hệ thống đa kênh không hiệu quả**
+**Phân tích hiệu suất thị trường**
+<img width="467" height="311" alt="image" src="https://github.com/user-attachments/assets/c6245438-5d34-4ef3-9ae6-5eae5cd3a10d" />
+- Thị trường Bắc Mỹ chiếm tỷ trọng doanh thu lớn
 
-- Lẽ ra đây là lúc Kênh Online phải gánh vác doanh số khi đối mặt với các hạn chế trong tâm dịch bệnh, nhưng dữ liệu lại chỉ rằng **Kênh Online lao dốc song song cùng In-store**.
-
-  <img width="1277" height="562" alt="image" src="https://github.com/user-attachments/assets/dbaf7922-ae42-49e4-b59e-dd0adce45d68" />
-
-- Biểu đồ thể hiện rõ đà lao dốc thẳng đứng của kênh cửa hàng vật lý ngay từ cuối Q1/2020. Lượng đơn hàng và doanh thu chạm đáy, phản ánh chính xác sự tê liệt của mạng lưới khi đối mặt với các biến động toàn cầu.
-
-- Theo nguyên lý bán lẻ thông thường, khi cửa hàng vật lý đóng cửa, nhu cầu mua sắm trực tuyến sẽ bùng nổ. Tuy nhiên, dữ liệu lại cho thấy kênh Online của doanh nghiệp hoàn toàn đi ngang, thậm chí sụt giảm nhẹ trong tâm điểm dịch. Kênh trực tuyến đã thất bại hoàn toàn trong việc "hấp thụ" lượng khách hàng chuyển dịch từ Offline sang.
-  
-**Kết luận**
----------------------------------------------------------------------
-**Nguyên nhân dẫn đến tình trạng doanh thu giảm**
-- **Tác động ngoại cảnh:** Cú sốc từ đại dịch Covid-19 trên toàn cầu làm đóng băng lưu lượng khách hàng trực tiếp và gây đứt gãy chuỗi cung ứng.
-
-- **Mất cân đối mạng lưới vật lý:** Việc phân bổ nguồn lực bộc lộ lỗ hổng chiến lược lớn. Công ty chịu rủi ro cao khi tài chính phụ thuộc quá mức vào thị trường Bắc Mỹ. Đồng thời, việc duy trì dàn trải một lượng lớn các cửa hàng kém hiệu quả tại Châu Âu đã tạo ra lỗ hổng bào mòn dòng tiền nghiêm trọng.
-
-- **Yếu kém trong hạ tầng Đa kênh:** Sự đồng pha cắm đầu đi xuống của cả kênh In-store lẫn Online là minh chứng rõ nhất cho việc doanh nghiệp chưa đầu tư chỉn chu cho thương mại điện tử. Hệ thống thiếu vắng hoàn toàn một nền tảng Omnichannel và chuỗi xử lý đơn hàng độc lập, dẫn đến sự bất lực trong việc gánh vác doanh số khi vấn đề xảy ra.
-
-**Đề xuất giải pháp**
-- **Tái cấu trúc danh mục điểm bán:** Rà soát toàn diện mức độ hiệu quả tại thị trường Châu Âu. Xem xét đóng cửa vĩnh viễn các cửa hàng có biên lợi nhuận âm kéo dài. Dồn nguồn lực tối ưu hóa không gian và bảo vệ lợi nhuận cho các cửa hàng trọng điểm tại Bắc Mỹ.
-- **Chuyển đổi số & Tự chủ chuỗi cung ứng:** Xây dựng hệ sinh thái kênh Online độc lập. Nâng cấp chuỗi cung ứng linh hoạt để đảm bảo hệ thống luôn sẵn sàng thích ứng với mọi biến động vĩ mô trong tương lai, không chỉ riêng đại dịch.
 
 ### 3.2. Kinh doanh
 **Tỷ trọng doanh thu các danh mục sản phẩm không đồng đều**
