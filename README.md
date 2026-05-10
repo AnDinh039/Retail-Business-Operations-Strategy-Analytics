@@ -1,4 +1,4 @@
-**Retail Business Operations Strategy Analytics** 
+**Retail Business Operations Strategy** 
 ----------------------------------------------------
 
 **Tác giả:** Đinh Hữu An
